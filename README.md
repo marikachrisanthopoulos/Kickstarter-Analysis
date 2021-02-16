@@ -11,6 +11,8 @@ Another challenge I had was when creating a few of the pivot tables to showcase 
 
 See the following screenshots of some of the analyzed data:
 
+![Outcomes based on Months](/
+
 ## Results
 Data analysis in the Theater Outcomes by Launch Date worksheet reveals that more plays are launched in the spring and early summer than in the other seasons. In addition, productions launched in the spring and early summer months generally have higher success rates than those launched in the winter, fall, or later summer months. The number of successful productions during the summer months is much higher relative to the number of failed productions: the number of successful productions in comparison to failed productions in the fall months are almost the same.
 
