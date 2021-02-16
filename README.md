@@ -1,12 +1,15 @@
 # An Analysis of Kickstarter Campaigns
-## Objectives
-This project has been designed to assist Louise, an aspiring playright, to help her fund her new play, Fever.
-Crowdfunding data has been organized, sorted, and analyzed to help Louise determine if there are any specific factors that can influence the funding she receives for her play, in order to provide with the best opportunities for success.
+## Overview of Project
+This project was designed to assist Louise, an aspiring playright, to help her fund her new play, Fever. Crowdfunding data for over 4,000 productions was included in the initial dataset. Productions were not limited to solely theater kickstarters, and the data was filtered to focus primarily on plays. The data included a number of variables for each production, including: the name, a short "blurb" or description of the project, the goal and actual amounts of money pledged, the outcome (whether the production was canceled, failed, live, or successful), the location (based on country), the currency of the money pledged, whether the prodcution was a staff pick, the number of backers, whether the production was in the "spotlight," the category and subcategory, and the date the production was launched.
 
-## Outcomes
-Data analysis using Microsoft Excel determined that productions launched in the spring and early summer months generally have higher success rates than those launched in the winter, fall, or later summer months.
+## Analysis and Challenges
+Crowdfunding data was organized, sorted, and analyzed in Mircrosoft Excel to help Louise determine if there are any specific factors that can influence the funding she receives for her play, in order to provide with the best opportunities for success. The data was presented in a variety of tables in charts for more accessible viewing. Measures of central tendancy, including the median, mean, range, and standard deviation were calculated for a number of variables. In addition, quartiles and outliers were also calculated and charted in order to most accurately represent the data.
+
+Challenges that were encountered during this data analysis were mainly related to intricate data analysis. When trying to determine the number of successful, failed, and canceled plays based on goal, I had some trouble creating the correct formulas to correctly filter and count the correct data. Using the COUNTIFS formula required significant trial and error due to the level of specificity that was required to calculate each number correctly. In order to work through this challenge, I did additional research on how to use this formula, and implemented the direction I was provided. This extra step provided me with the necessary guidance I needed to correctly utilize this formula and extract the correct data.
+
+Another challenge I had was when creating a few of the pivot tables to showcase the data based on certain categories. Correctly displaying the specified categories of data in a presentable fashion also took a couple of tries, as my experience with pivot tables in limited. After spending some time experimenting with a number of different combinations while going through the lessons again, I was able to work through this challenge.
+
+## Results
+Data analysis revealed that productions launched in the spring and early summer months generally have higher success rates than those launched in the winter, fall, or later summer months.
 
 In addition, successful campaigns overall had lower mean fundraising goals. On average, successful campaigns had goals of about $5K, while failed campaigns had an average goal of $10K.
-
-## Suggestions
-In order to plan for a successful campaign, aspiring playrights should not be overly ambitious with their fundraising goals. In addition, they should plan on opening their campaigns in the summer months. 
