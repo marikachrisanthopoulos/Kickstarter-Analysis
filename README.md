@@ -9,9 +9,19 @@ Challenges that were encountered during this data analysis were mainly related t
 
 Another challenge I had was when creating a few of the pivot tables to showcase the data based on certain categories. Correctly displaying the specified categories of data in a presentable fashion also took a couple of tries, as my experience with pivot tables in limited. After spending some time experimenting with a number of different combinations while going through the lessons again, I was able to work through this challenge.
 
-See the following screenshots of some of the analyzed data:
+See the following images below for some of the analyzed data and corresponding graphs:
 
-![Outcomes based on Months](/
+![Outcomes based on Months](https://github.com/marikachrisanthopoulos/Kickstarter-Analysis/blob/main/Months.png)
+
+![Outcomes based on Months Graph](https://github.com/marikachrisanthopoulos/Kickstarter-Analysis/blob/main/Theater_Outcomes_vs_Launch.png)
+
+![Outcomes based on Goals](https://github.com/marikachrisanthopoulos/Kickstarter-Analysis/blob/main/Percentage.png)
+
+![Outcomes based on Goals Graph](https://github.com/marikachrisanthopoulos/Kickstarter-Analysis/blob/main/Outcomes_vs_Goals.png)
+
+![Statistics](https://github.com/marikachrisanthopoulos/Kickstarter-Analysis/blob/main/Statistics.png)
+
+
 
 ## Results
 Data analysis in the Theater Outcomes by Launch Date worksheet reveals that more plays are launched in the spring and early summer than in the other seasons. In addition, productions launched in the spring and early summer months generally have higher success rates than those launched in the winter, fall, or later summer months. The number of successful productions during the summer months is much higher relative to the number of failed productions: the number of successful productions in comparison to failed productions in the fall months are almost the same.
